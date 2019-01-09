@@ -1,6 +1,6 @@
 {
   "name": "@voydevichb/voydevichb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "patch-release": "npm version patch && npm publish && git push --follow-tags",
